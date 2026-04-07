@@ -23,3 +23,5 @@
    b-> cd/internship-task
    c-> npm install
    d-> npm run dev
+
+# 10 ->live link https://internship-task-two-taupe.vercel.app/   
